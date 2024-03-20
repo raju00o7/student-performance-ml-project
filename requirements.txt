@@ -8,5 +8,5 @@ statsmodels
 catboost
 xgboost
 dill
-pickle
+flask
 #-e .
