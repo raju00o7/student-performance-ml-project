@@ -7,4 +7,5 @@ scikit-learn
 statsmodels
 catboost
 xgboost
+dill
 #-e .
